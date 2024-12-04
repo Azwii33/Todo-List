@@ -1,0 +1,55 @@
+body{
+    background-color:rgb(168, 148, 188);
+   padding: 0;
+   margin: 0;
+  }
+  .header{
+  text-align: center;  
+  position: relative;
+  top: 200px;
+  
+  }
+  .container{
+    width: 400px;
+    margin-left: 570px;
+    margin-top: 210px;
+   
+    
+  } 
+  button{
+    height: 50px;
+    width: 90px;
+    background-color: darkslategray;
+    color: antiquewhite;
+    border-radius: 5px;
+    font-size: 20px;
+  }
+  input{
+    height: 45px;
+    width: 300px;
+   border-radius: 5px;
+   font-size: 20px;
+   
+  
+  }
+  .text{
+    margin-left: 550px;
+    margin-top: 20px;
+    font-size: 25px;
+    
+  }
+  .icon{
+  height: 30px;
+   width: 30px;
+   border: 1px solid darkslategray;
+   border-radius: 60%;
+   margin-right: 5px;
+   background-color: darkslategray;
+   color: whitesmoke;
+   padding: 2px;
+   margin-left: 20px;
+   
+   
+  }
+  ul{
+    font-size:25px;}
